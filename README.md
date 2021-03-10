@@ -7,7 +7,7 @@
 
 ### docker build
 ```bash
-docker build -t picx .
+docker build -t picx https://github.com/xunhs/picx-docker.git
 ```
 
 ### docker run
